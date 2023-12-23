@@ -6,6 +6,7 @@ Es gibt zwei Geräte,\
 ein Außengerät\
  - AZ-Delivery mit ESP32-WROOM-32\
  - inkl. TemperaturSensor DS18B20\
+ 
 ein Innengerät mit OLED-Display\
  - ideaspark ESP8266 0.96" OLED Module VR:2.1\
 
